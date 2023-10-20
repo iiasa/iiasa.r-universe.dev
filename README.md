@@ -1,12 +1,3 @@
----
-title: "README"
-output: github_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## README
 
 The [R-Universe](https://r-universe.dev/search/) platform provides a github-hosted 
@@ -20,7 +11,7 @@ The listed R-packages can then be installed by providing an additional repositor
 to `install.packages()`.
 
 **Example:**
-```{r, eval=FALSE}
+```
 # Install the ibis R-package
 install.packages('ibis.iSDM', repos = "https://iiasa.r-universe.dev")
 ```
