@@ -2,10 +2,10 @@
 
 The [R-Universe](https://r-universe.dev/search/) platform provides a github-hosted 
 indexer as an alternative to submitting R-packages to CRAN. This repository 
-contains a json which is regularly indexed for the listed publicly available 
+contains a JSON file that is regularly indexed for the listed publicly available 
 R-packages developed by IIASA staff. 
 
-Any R-package listed in the json will be build and made available on [https://iiasa.r-universe.dev/](https://iiasa.r-universe.dev/builds). 
+Any R-package listed in the json will be built and made available on [https://iiasa.r-universe.dev/](https://iiasa.r-universe.dev/builds). 
 
 The listed R-packages can then be installed by providing an additional repository
 to `install.packages()`.
