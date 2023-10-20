@@ -1,0 +1,14 @@
+[
+   {
+        "package": "ibis.iSDM",
+        "url": "https://github.com/iiasa/ibis.iSDM"
+    },
+	{
+        "package": "insights",
+        "url": "https://github.com/iiasa/insights"
+    },
+	{
+        "package": "rN2000",
+        "url": "https://github.com/iiasa/rN2000"
+    }
+]
