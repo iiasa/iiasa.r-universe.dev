@@ -10,5 +10,13 @@
 	{
         "package": "rN2000",
         "url": "https://github.com/iiasa/rN2000"
+    },
+	{
+        "package": "BioCal",
+        "url": "https://github.com/iiasa/BioCal"
+    },
+	{
+        "package": "ForestScope_R",
+        "url": "https://github.com/iiasa/ForestScope_sc/tree/main/ForestScope_R"
     }
 ]
