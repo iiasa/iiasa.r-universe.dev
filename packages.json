@@ -14,9 +14,5 @@
 	{
         "package": "BioCal",
         "url": "https://github.com/iiasa/BioCal"
-    },
-	{
-        "package": "ForestScope_R",
-        "url": "https://github.com/iiasa/ForestScope_sc/tree/main/ForestScope_R"
     }
 ]
