@@ -12,6 +12,10 @@
         "url": "https://github.com/iiasa/rN2000"
     },
 	{
+        "package": "ODPSCP",
+        "url": "https://github.com/iiasa/ODPSCP"
+    },
+	{
         "package": "BioCal",
         "url": "https://github.com/iiasa/BioCal"
     }
