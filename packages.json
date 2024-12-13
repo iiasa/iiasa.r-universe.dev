@@ -22,5 +22,9 @@
 	{
         "package": "mapspam2globiom",
         "url": "https://github.com/iiasa/mapspam2globiom"
+    },
+	{
+        "package": "BNRTools",
+        "url": "https://github.com/iiasa/BNRTools"
     }
 ]
