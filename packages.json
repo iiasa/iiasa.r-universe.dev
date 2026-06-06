@@ -4,8 +4,8 @@
         "url": "https://github.com/iiasa/ibis.iSDM"
     },
 	{
-        "package": "insights",
-        "url": "https://github.com/iiasa/insights"
+        "package": "ibis.insights",
+        "url": "https://github.com/iiasa/ibis.insights"
     },
 	{
         "package": "rN2000",
