@@ -26,5 +26,9 @@
 	{
         "package": "BNRTools",
         "url": "https://github.com/iiasa/BNRTools"
-    }
+    },
+	{
+		"package": "hibiiscus",
+		"url": "https://github.com/iiasa/hibiiscus"
+	}
 ]
